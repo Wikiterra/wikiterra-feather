@@ -2,7 +2,7 @@
 
 ## Intro
 
-WikiTerra es una pequeña enciclopedia de prueba gestionada entera sobre un HTML.
+WikiTerra es una pequeña enciclopedia de la Tierra en pruebas gestionada entera sobre un HTML.
 
 Para ver lo único que hay que hacer es descargar el HTML y abrirlo en un navegador (Chrome, Firefox, MS Edge, etc). EL HTML está basado en [TiddlyWiki](https://tiddlywiki.com/) y es editable para cualquiera que posea el archivo.
 
