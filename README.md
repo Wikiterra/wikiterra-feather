@@ -7,7 +7,7 @@ WikiTerra es una pequeña enciclopedia de la Tierra en pruebas gestionada entera
 [TiddlyWiki](https://tiddlywiki.com/) es el software que permite crear una wiki, ya sea blog de notas, información personal, etc; todo dentro dentro de un archivo HTML editable. TiddlyWiki tiene muchas características pero la más destacable es poder organizar toda la información en un solo archivo HTML con formato de texto, adición de imágenes, con temas personalizables, cifrado con contraseña... Además se puede sincronizar usando Git con GitLab, GitHub, Gitea o un servidor propio.
 
 ## Ver contenido
-Para ver el contenido lo único que hay que hacer es descargar el HTML desde [WikiTerra.html](https://raw.githubusercontent.com/Curiosity432/WikiTerra-TiddlyWiki/main/WikiTerra.html) o descargando este repositorio y abrirlo con un navegador (Chrome, Firefox, MS Edge, etc). Una vez abierto ya podremos ver y editar en local.
+Para ver el contenido lo único que hay que hacer es descargar el HTML desde [WikiTerra.html](https://raw.githubusercontent.com/Curiosity432/WikiTerra-TiddlyWiki/main/WikiTerra.html) o descargando este repositorio y abriendo el archivo HTML con un navegador (Chrome, Firefox, MS Edge, etc). Una vez abierto ya podremos ver y editar en local.
 
 ## Editar
 Si quieres editar puedes hacerlo en local, pero para que estos se cambien en el repositorio es necesario hacer un Git push a este repositorio https://github.com/Curiosity432/WikiTerra-TiddlyWiki.git y si los cambios cumplen la normas se aceptarán. 
