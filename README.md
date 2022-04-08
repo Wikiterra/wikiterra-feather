@@ -4,17 +4,16 @@ WikiTerra es una pequeña enciclopedia de la Tierra en pruebas gestionada entera
 
 
 ## TiddlyWiki
-[TiddlyWiki](https://tiddlywiki.com/) es el software que permite crear una wiki, ya sea blog de notas, información personal, etc, todo dentro dentro de un archivo HTML editable. TiddlyWiki tiene muchas características pero la principal que destaca es poder organizar toda la información en un solo archivo HTML personalizable con temas, con texto con formato y que permite ser colaborativo. Además se puede sincronizar usando Git con GitLab, GitHub, Gitea o un servidor propio.
+[TiddlyWiki](https://tiddlywiki.com/) es el software que permite crear una wiki, ya sea blog de notas, información personal, etc; todo dentro dentro de un archivo HTML editable. TiddlyWiki tiene muchas características pero la más destacable es poder organizar toda la información en un solo archivo HTML con formato de texto, adición de imágenes, con temas personalizables, cifrado con contraseña... Además se puede sincronizar usando Git con GitLab, GitHub, Gitea o un servidor propio.
 
 ## Ver contenido
-Para ver el contenido lo único que hay que hacer es descargar el HTML [WikiTerra.html](https://raw.githubusercontent.com/Curiosity432/WikiTerra-TiddlyWiki/main/WikiTerra.html) de este repositorio y abrirlo con un navegador (Chrome, Firefox, MS Edge, etc).
-
+Para ver el contenido lo único que hay que hacer es descargar el HTML desde [WikiTerra.html](https://raw.githubusercontent.com/Curiosity432/WikiTerra-TiddlyWiki/main/WikiTerra.html) o descargando este repositorio y abrirlo con un navegador (Chrome, Firefox, MS Edge, etc). Una vez abierto ya podremos ver y editar en local.
 
 ## Editar
-Si quieres editar y subir los cambios aquí solo tienes que hacer un git push a este repositorio https://github.com/Curiosity432/WikiTerra-TiddlyWiki.git y si cumple la normas se aceptarán los cambios. 
+Si quieres editar puedes hacerlo en local, pero para que estos se cambien en el repositorio es necesario hacer un Git push a este repositorio https://github.com/Curiosity432/WikiTerra-TiddlyWiki.git y si los cambios cumplen la normas se aceptarán. 
 
 ### Normas de edición
-Hacer una enciclopedia no es una tarea sencilla, en este caso WikiTerra es una Beta pero con el objetivo de ser un enciclopedia seria accesible para todo el mundo. 
+Hacer una enciclopedia no es una tarea sencilla, en este caso WikiTerra es una Beta en pruebas con el objetivo de ser un enciclopedia seria accesible para todo el mundo.
 1. La información ha de ser objetiva, hay que intentar dejar de lado los aspectos subjetivos y escribir usando evidencias que sean comprobables y empíricas.
 2. Esciribir con adecuación al tema y sentido.
 3. No cometer errores ortgráficos, ni gramáticos.
