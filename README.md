@@ -16,7 +16,7 @@ TiddlyWiki tiene muchas características pero la principal que destaca es poder 
 
 ## Edición
 
-Si quieres editar y subir los cambios aquí solo tienes que hacer un git push a este repositorio (https://github.com/Curiosity432/WikiTerra-TiddlyWiki) y si cumple la normas se aceptarán los cambios. 
+Si quieres editar y subir los cambios aquí solo tienes que hacer un git push a este repositorio https://github.com/Curiosity432/WikiTerra-TiddlyWiki.git y si cumple la normas se aceptarán los cambios. 
 
 ## Normas para editar
 
