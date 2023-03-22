@@ -1,7 +1,7 @@
 WikiTerra-featherwiki es una pequeña enciclopedia gestionada entera sobre un HTML.
 
 Aquí en un pequeño video de cómo editar:
-![](./editing-featherwiki.mp4)
+https://raw.githubusercontent.com/Curiosity432/wikiterra-featherwiki/main/editing-featherwiki.mp4
 
 
 - Los repositorios están hospedados en:
